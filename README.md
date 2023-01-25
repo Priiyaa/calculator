@@ -1,2 +1,4 @@
 # calculator
-Web-dev
+PLEASE SEE THE MASTER BRANCH<br>
+TECCHNOLOGY USED: HTML/CSS/JS
+
